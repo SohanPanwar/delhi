@@ -12,3 +12,4 @@ full text search
 comand
 command 2
 command line Test
+remotr
