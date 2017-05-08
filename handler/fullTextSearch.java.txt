@@ -10,3 +10,4 @@ full text search
 9
 0
 comand
+command 2
