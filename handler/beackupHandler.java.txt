@@ -1,5 +1,5 @@
 
-public static void main\
+pblic static void main\
 1
 create
 backup
