@@ -1,6 +1,4 @@
-alka
-pkkblic static void main\
-1
+
 create
 backup
 comand line
