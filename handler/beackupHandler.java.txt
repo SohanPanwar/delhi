@@ -1,5 +1,5 @@
 alka
-blic static void main\
+aoblic static void main
 1
 create
 backup
